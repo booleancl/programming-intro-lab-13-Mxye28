@@ -1,0 +1,3 @@
+C:/Users/cmunoz/intro_dev/programming-intro-lab-13-Mxye28/scripts/00-createBigCitiesDataBase.sql
+C:/Users/cmunoz/intro_dev/programming-intro-lab-13-Mxye28/scripts/01-createCitiesTable.sql
+C:\Users\cmunoz\intro_dev\programming-intro-lab-13-Mxye28\scripts\02-seedCitiesTable.sql
